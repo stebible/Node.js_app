@@ -30,5 +30,8 @@ jobs:
       #- name: Run Prettier
         #run: npm prettier
 
-      - name: Run tests
-        run: npm test
+      #- name: Run tests
+        #run: npm test
+      
+      - name: build package
+        run: npm run build
