@@ -41,6 +41,6 @@ jobs:
         with:
           context: .
           push: true
-          tags: stebible/Nodejsapp:latest
+          tags: stebible/nodejsapp:latest
         
   
